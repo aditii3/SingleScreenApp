@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="large_text">40sp</dimen>
+    <dimen name="small_text">20sp</dimen>
+    <dimen name="card">70dp</dimen>
+    <dimen name="images">250dp</dimen>
+    <dimen name="p10">10dp</dimen>
+    <dimen name="p15">15dp</dimen>
+    <dimen name="p5">5dp</dimen>
+</resources>

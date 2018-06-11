@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Single screen</string>
+    <string name="url">www.udacity.com</string>
+    <string name="contact_no">650-555-5555</string>
+    <string name="address">2465 Lathem St,Mountain View,CA 94043</string>
+    <string name="banner">coffee paradise</string>
+    <string name="time">10:00 a.m. - 11:00 p.m.</string>
+    <string name="description">Get the best arabica coffee.\nColombian Milds - Includes coffees from Colombia, Kenya, and Tanzania, all of which are washed arabicas.\nEthiopian Harrar — from the region of Harar, Ethiopia</string>
+</resources>
